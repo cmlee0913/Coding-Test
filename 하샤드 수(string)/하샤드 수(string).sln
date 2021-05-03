@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31205.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "하샤드 수(string)", "하샤드 수(string)\하샤드 수(string).vcxproj", "{18ECC51E-C270-45C8-A739-771560E9ABF3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{18ECC51E-C270-45C8-A739-771560E9ABF3}.Debug|x64.ActiveCfg = Debug|x64
+		{18ECC51E-C270-45C8-A739-771560E9ABF3}.Debug|x64.Build.0 = Debug|x64
+		{18ECC51E-C270-45C8-A739-771560E9ABF3}.Debug|x86.ActiveCfg = Debug|Win32
+		{18ECC51E-C270-45C8-A739-771560E9ABF3}.Debug|x86.Build.0 = Debug|Win32
+		{18ECC51E-C270-45C8-A739-771560E9ABF3}.Release|x64.ActiveCfg = Release|x64
+		{18ECC51E-C270-45C8-A739-771560E9ABF3}.Release|x64.Build.0 = Release|x64
+		{18ECC51E-C270-45C8-A739-771560E9ABF3}.Release|x86.ActiveCfg = Release|Win32
+		{18ECC51E-C270-45C8-A739-771560E9ABF3}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {69C4954B-D82B-4292-8943-8287F2AA0C79}
+	EndGlobalSection
+EndGlobal
