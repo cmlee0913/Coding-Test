@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31321.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "N개의 최소공배수 (유클리드)", "N개의 최소공배수 (유클리드)\N개의 최소공배수 (유클리드).vcxproj", "{231A8F7E-6F28-4621-9D49-9260381D6CB6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{231A8F7E-6F28-4621-9D49-9260381D6CB6}.Debug|x64.ActiveCfg = Debug|x64
+		{231A8F7E-6F28-4621-9D49-9260381D6CB6}.Debug|x64.Build.0 = Debug|x64
+		{231A8F7E-6F28-4621-9D49-9260381D6CB6}.Debug|x86.ActiveCfg = Debug|Win32
+		{231A8F7E-6F28-4621-9D49-9260381D6CB6}.Debug|x86.Build.0 = Debug|Win32
+		{231A8F7E-6F28-4621-9D49-9260381D6CB6}.Release|x64.ActiveCfg = Release|x64
+		{231A8F7E-6F28-4621-9D49-9260381D6CB6}.Release|x64.Build.0 = Release|x64
+		{231A8F7E-6F28-4621-9D49-9260381D6CB6}.Release|x86.ActiveCfg = Release|Win32
+		{231A8F7E-6F28-4621-9D49-9260381D6CB6}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B0534790-CA94-4DEF-B87B-763CF6581E77}
+	EndGlobalSection
+EndGlobal
