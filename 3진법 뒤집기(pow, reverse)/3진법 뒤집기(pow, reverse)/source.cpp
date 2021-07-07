@@ -15,8 +15,9 @@ int solution(int n) {
 
     reverse(a.begin(), a.end());
 
-    for (int i = 0; i < a.size(); i++)
+    for (int i = 0; i < a.size(); i++) {
         answer += pow(3, i) * a[i];
+    }
 
     return answer;
 }
