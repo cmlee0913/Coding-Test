@@ -14,7 +14,7 @@ int solution(int n) {
     return fibo(n) % 1234567;
 }
 
-// for 문만 사용
+// for 문 사용
 #include <string>
 #include <vector>
 
