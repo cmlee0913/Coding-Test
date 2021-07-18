@@ -13,9 +13,8 @@ vector<int> solution(long long n) {
 
     reverse(begin(s), end(s));
 
-    for (int i = 0; i < s.size(); i++) {
+    for (int i = 0; i < s.size(); i++) 
         answer.push_back(s[i] - '0');
-    }
 
     return answer;
 }
