@@ -30,20 +30,31 @@ vector<int> solution(vector<int> prices) {
 
 using namespace std;
 
-vector<int> solution(vector<int> prices) {
+vector<int> solution(vector<int> prices)
+{
     vector<int> answer(prices.size());
     stack<int> s;
     int size = prices.size();
-    for (int i = 0; i < size; i++) {
-        while (!s.empty() && prices[s.top()] > prices[i]) {
+
+    for (int i = 0; i < size; i++)
+    {
+        // 스텍이 차있으면서 가격이 떨어지기 시작하면
+        while (!s.empty() && prices[s.top()] > prices[i])
+        {
             answer[s.top()] = i - s.top();
             s.pop();
         }
+
+        // 가격이 올라갈때동안 스텍에 넣음
         s.push(i);
     }
-    while (!s.empty()) {
+
+    // 스텍에 남은것들을 계산해줌
+    while (!s.empty())
+    {
         answer[s.top()] = size - s.top() - 1;
         s.pop();
     }
+
     return answer;
 }
