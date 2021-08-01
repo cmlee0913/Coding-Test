@@ -9,9 +9,8 @@ int solution(vector<int> A, vector<int> B)
     sort(A.begin(), A.end(), greater<int>());
     sort(B.begin(), B.end());
 
-    for (int i = 0; i < A.size(); i++) {
+    for (int i = 0; i < A.size(); i++) 
         answer += (A[i] * B[i]);
-    }
 
     return answer;
 }

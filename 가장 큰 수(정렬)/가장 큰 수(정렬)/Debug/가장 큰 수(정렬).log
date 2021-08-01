@@ -1,0 +1,4 @@
+﻿  source.cpp
+C:\Users\cmlee\OneDrive\바탕 화면\Coding-Test\가장 큰 수(정렬)\가장 큰 수(정렬)\source.cpp(17,23): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\cmlee\OneDrive\바탕 화면\Coding-Test\가장 큰 수(정렬)\가장 큰 수(정렬)\source.cpp(23,23): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  가장 큰 수(정렬).vcxproj -> C:\Users\cmlee\OneDrive\바탕 화면\Coding-Test\가장 큰 수(정렬)\Debug\가장 큰 수(정렬).exe
