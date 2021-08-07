@@ -21,9 +21,8 @@ string solution(vector<int> numbers) {
     sort(num_to_str.begin(), num_to_str.end(), bigger);
     if (num_to_str[0] == "0") return "0";
 
-    for (int i = 0; i < num_to_str.size(); i++) {
+    for (int i = 0; i < num_to_str.size(); i++) 
         answer += num_to_str[i];
-    }
 
     return answer;
 }
