@@ -51,12 +51,10 @@ string balanceBracket(string s) {
         str = "(" + balanceBracket(v) + ")";
         u = u.substr(1, u.length() - 2);
         for (int i = 0; i < u.size(); i++) {
-            if (u[i] == '(') {
+            if (u[i] == '(') 
                 str += ')';
-            }
-            else {
+            else 
                 str += '(';
-            }
         }
         return str;
     }
