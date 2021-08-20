@@ -11,13 +11,11 @@ int solution(vector<int> nums)
     nums.erase(unique(nums.begin(), nums.end()), nums.end());
 
     if (nums.size() < s) {
-        answer = nums.size();
+        return nums.size();
     }
     else {
-        answer = s;
+        return s;
     }
-
-    return answer;
 }
 
 // 다른 풀이
