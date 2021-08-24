@@ -1,5 +1,5 @@
 // O(n^2)
-
+#include <iostream>
 #include <string>
 #include <vector>
 
@@ -36,11 +36,9 @@ vector<int> solution(vector<int> prices)
     stack<int> s;
     int size = prices.size();
 
-    for (int i = 0; i < size; i++)
-    {
+    for (int i = 0; i < size; i++) {
         // 스텍이 차있으면서 가격이 떨어지기 시작하면
-        while (!s.empty() && prices[s.top()] > prices[i])
-        {
+        while (!s.empty() && prices[s.top()] > prices[i]) {
             answer[s.top()] = i - s.top();
             s.pop();
         }
@@ -50,8 +48,7 @@ vector<int> solution(vector<int> prices)
     }
 
     // 스텍에 남은것들을 계산해줌
-    while (!s.empty())
-    {
+    while (!s.empty()) {
         answer[s.top()] = size - s.top() - 1;
         s.pop();
     }
