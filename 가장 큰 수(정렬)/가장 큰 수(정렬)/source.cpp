@@ -5,7 +5,7 @@
 using namespace std;
 
 bool bigger(string a, string b) {
-    return a + b > b + a; // 두개를 더해서 큰 수를 리턴
+    return a + b > b + a; 
 }
 
 
