@@ -1,7 +1,7 @@
 def solution(id_list, report, k):
     set_report=list(set(report))
     warning=[0]*len(id_list) # 경고횟수 카운트
-    answer=[0]*len(id_list)  # 메일보내는 명단
+    answer=[0]*len(id_list)
     for i in range(len(set_report)):
         warning[id_list.index(set_report[i].split()[1])]+=1
     for i in range(len(warning)):
