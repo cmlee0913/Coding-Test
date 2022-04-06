@@ -17,15 +17,15 @@ public class Solution
         while(true)
         {
             //트럭 카운트와 받아온 배열의 길이가 같으면 반복문 탈출
-            if(truckCount == truck_weights.Length) break;
+            if (truckCount == truck_weights.Length) break;
             
             //큐 카운트와 다리의 길이가 같으면 총 무게에서 큐 제거
             //즉, 다리를 건넜다는 뜻
-            if(q.Count == bridge_length) allweight -= q.Dequeue();
+            if (q.Count == bridge_length) allweight -= q.Dequeue();
             
             //총 무게 + 현재 트럭의 무게가 제한 무게 보다 작거나 같을 시
             //즉, 트럭을 더 다리에 올릴 수 있을 시
-            if(allweight + truck_weights[truckCount] <= weight)
+            if (allweight + truck_weights[truckCount] <= weight)
             {
                 //총 무게 + 현재 트럭의 무게
                 //큐 데이터 삽입
@@ -35,7 +35,7 @@ public class Solution
                 truckCount++;
             }
             //트럭을 다리에 올릴 수 없을 시, 기존 트럭만 이동
-            else{
+            else {
                 q.Enqueue(0);
             }
             //시간 초 더하기
