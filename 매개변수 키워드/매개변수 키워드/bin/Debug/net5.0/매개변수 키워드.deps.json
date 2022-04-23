@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "매개변수 키워드/1.0.0": {
+        "runtime": {
+          "매개변수 키워드.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "매개변수 키워드/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
