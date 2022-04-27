@@ -5,3 +5,10 @@ C:\Users\cmlee\OneDrive\바탕 화면\_C++++_\_C++++_\obj\Debug\_C++++_.csproj.A
 C:\Users\cmlee\OneDrive\바탕 화면\_C++++_\_C++++_\obj\Debug\_C++++_.csproj.CoreCompileInputs.cache
 C:\Users\cmlee\OneDrive\바탕 화면\_C++++_\_C++++_\obj\Debug\_C++++_.exe
 C:\Users\cmlee\OneDrive\바탕 화면\_C++++_\_C++++_\obj\Debug\_C++++_.pdb
+C:\Users\suras\Desktop\개발\Coding Test\_C++++_\_C++++_\obj\Debug\_C++++_.csproj.AssemblyReference.cache
+C:\Users\suras\Desktop\개발\Coding Test\_C++++_\_C++++_\obj\Debug\_C++++_.csproj.CoreCompileInputs.cache
+C:\Users\suras\Desktop\개발\Coding Test\_C++++_\_C++++_\obj\Debug\_C++++_.exe
+C:\Users\suras\Desktop\개발\Coding Test\_C++++_\_C++++_\obj\Debug\_C++++_.pdb
+C:\Users\suras\Desktop\개발\Coding Test\_C++++_\_C++++_\bin\Debug\_C++++_.exe.config
+C:\Users\suras\Desktop\개발\Coding Test\_C++++_\_C++++_\bin\Debug\_C++++_.exe
+C:\Users\suras\Desktop\개발\Coding Test\_C++++_\_C++++_\bin\Debug\_C++++_.pdb
