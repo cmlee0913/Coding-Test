@@ -1,0 +1,16 @@
+C:\Users\cmlee\OneDrive\바탕 화면\Coding-Test\참조형 실험\참조형 실험\bin\Debug\net5.0\참조형 실험.exe
+C:\Users\cmlee\OneDrive\바탕 화면\Coding-Test\참조형 실험\참조형 실험\bin\Debug\net5.0\참조형 실험.deps.json
+C:\Users\cmlee\OneDrive\바탕 화면\Coding-Test\참조형 실험\참조형 실험\bin\Debug\net5.0\참조형 실험.runtimeconfig.json
+C:\Users\cmlee\OneDrive\바탕 화면\Coding-Test\참조형 실험\참조형 실험\bin\Debug\net5.0\참조형 실험.runtimeconfig.dev.json
+C:\Users\cmlee\OneDrive\바탕 화면\Coding-Test\참조형 실험\참조형 실험\bin\Debug\net5.0\참조형 실험.dll
+C:\Users\cmlee\OneDrive\바탕 화면\Coding-Test\참조형 실험\참조형 실험\bin\Debug\net5.0\ref\참조형 실험.dll
+C:\Users\cmlee\OneDrive\바탕 화면\Coding-Test\참조형 실험\참조형 실험\bin\Debug\net5.0\참조형 실험.pdb
+C:\Users\cmlee\OneDrive\바탕 화면\Coding-Test\참조형 실험\참조형 실험\obj\Debug\net5.0\참조형 실험.csproj.AssemblyReference.cache
+C:\Users\cmlee\OneDrive\바탕 화면\Coding-Test\참조형 실험\참조형 실험\obj\Debug\net5.0\참조형 실험.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cmlee\OneDrive\바탕 화면\Coding-Test\참조형 실험\참조형 실험\obj\Debug\net5.0\참조형 실험.AssemblyInfoInputs.cache
+C:\Users\cmlee\OneDrive\바탕 화면\Coding-Test\참조형 실험\참조형 실험\obj\Debug\net5.0\참조형 실험.AssemblyInfo.cs
+C:\Users\cmlee\OneDrive\바탕 화면\Coding-Test\참조형 실험\참조형 실험\obj\Debug\net5.0\참조형 실험.csproj.CoreCompileInputs.cache
+C:\Users\cmlee\OneDrive\바탕 화면\Coding-Test\참조형 실험\참조형 실험\obj\Debug\net5.0\참조형 실험.dll
+C:\Users\cmlee\OneDrive\바탕 화면\Coding-Test\참조형 실험\참조형 실험\obj\Debug\net5.0\ref\참조형 실험.dll
+C:\Users\cmlee\OneDrive\바탕 화면\Coding-Test\참조형 실험\참조형 실험\obj\Debug\net5.0\참조형 실험.pdb
+C:\Users\cmlee\OneDrive\바탕 화면\Coding-Test\참조형 실험\참조형 실험\obj\Debug\net5.0\참조형 실험.genruntimeconfig.cache
