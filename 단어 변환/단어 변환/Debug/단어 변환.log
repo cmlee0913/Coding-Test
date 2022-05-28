@@ -1,0 +1,10 @@
+﻿  소스.cpp
+C:\Users\suras\Desktop\개발\Coding Test\단어 변환\단어 변환\소스.cpp(24,23): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\suras\Desktop\개발\Coding Test\단어 변환\단어 변환\소스.cpp(28,23): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\suras\Desktop\개발\Coding Test\단어 변환\단어 변환\소스.cpp(30,27): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\suras\Desktop\개발\Coding Test\단어 변환\단어 변환\소스.cpp(34,35): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\suras\Desktop\개발\Coding Test\단어 변환\단어 변환\소스.cpp(43,23): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\suras\Desktop\개발\Coding Test\단어 변환\단어 변환\소스.cpp(64,27): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\suras\Desktop\개발\Coding Test\단어 변환\단어 변환\소스.cpp(66,35): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\suras\Desktop\개발\Coding Test\단어 변환\단어 변환\소스.cpp(75): warning C4715: 'solution': 모든 제어 경로에서 값을 반환하지는 않습니다.
+  단어 변환.vcxproj -> C:\Users\suras\Desktop\개발\Coding Test\단어 변환\Debug\단어 변환.exe
