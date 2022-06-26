@@ -1,0 +1,3 @@
+﻿  소스.cpp
+C:\Users\cmlee\OneDrive\바탕 화면\Coding-Test\Devs\Devs\소스.cpp(12,23): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  Devs.vcxproj -> C:\Users\cmlee\OneDrive\바탕 화면\Coding-Test\Devs\Debug\Devs.exe
