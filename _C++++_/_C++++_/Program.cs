@@ -135,6 +135,16 @@ namespace _C_____
             // eventEx.exEvent = eventEx.Plus;
             // eventEx.exEvent();
 
+            byte a = 1;
+            byte b = 2;
+
+            byte c = (byte)(a + b);
+
+            float s = 10;
+            float q = 20;
+
+            float t = s + q;
+
             eventEx.UseEvent();
 
         }

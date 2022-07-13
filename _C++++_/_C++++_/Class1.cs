@@ -11,6 +11,11 @@ public class Solution
 
         }
 
+        byte a = 8;
+        byte b = 6;
+
+        byte c = a + b;
+
         return answer;
     }
 }
